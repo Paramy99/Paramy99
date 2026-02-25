@@ -1,5 +1,13 @@
 # 💫 About Me:
-I'm a Full Stack Developer & ASP.NET Developer 
+👋 Hi, I'm Paramanand Yadav
+
+🎓 MCA Graduate (2025)
+💻 Full Stack Developer | MERN Stack Enthusiast
+🚀 Passionate about building modern & scalable web applications
+✨ I am a passionate developer with 6 months of training experience in Web Development.
+✨ I love solving problems and building responsive, user-friendly applications.
+✨ Currently improving my Data Structures & Backend Development skills.
+✨ Goal: To become a Professional Software Developer.
 
 
 ## 🌐 Socials:
